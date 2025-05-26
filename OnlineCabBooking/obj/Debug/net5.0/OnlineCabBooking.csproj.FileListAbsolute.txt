@@ -23,8 +23,6 @@ E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\scopedcs
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\OnlineCabBooking.TagHelpers.input.cache
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\OnlineCabBooking.TagHelpers.output.cache
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\OnlineCabBooking.RazorCoreGenerate.cache
-E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\Track.cshtml.g.cs
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -55,3 +53,6 @@ E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\bin\Debug\net5.0\System.N
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\bin\Debug\net5.0\System.Text.Encodings.Web.dll
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\bin\Debug\net5.0\System.Threading.Channels.dll
+E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\Dashboard.cshtml.g.cs
+E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\Login.cshtml.g.cs
+E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\Register.cshtml.g.cs

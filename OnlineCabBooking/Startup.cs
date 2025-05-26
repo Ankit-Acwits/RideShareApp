@@ -53,7 +53,7 @@ namespace OnlineCabBooking
                 endpoints.MapHub<LocationHub>("/locationHub");
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Rider}/{action=Login}/{id?}");
             });
         }
     }

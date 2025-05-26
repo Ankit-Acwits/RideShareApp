@@ -5,9 +5,8 @@ namespace OnlineCabBooking.Controllers
 {
     public class RiderController : Controller
     {
-        public IActionResult Track()
-        {
-            return View();
-        }
+        public IActionResult Register() => View();
+        public IActionResult Login() => View();
+        public IActionResult Dashboard() => View();
     }
 }
