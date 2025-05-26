@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sandeep Kukreti\\source\\repos\\OnlineCabBooking\\Models\\Models.csproj",
+      "projectUniqueName": "E:\\Projects\\RideShareApp\\RideShareApp\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\Sandeep Kukreti\\source\\repos\\OnlineCabBooking\\Models\\Models.csproj",
+      "projectPath": "E:\\Projects\\RideShareApp\\RideShareApp\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\Sandeep Kukreti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sandeep Kukreti\\source\\repos\\OnlineCabBooking\\Models\\obj\\",
+      "outputPath": "E:\\Projects\\RideShareApp\\RideShareApp\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

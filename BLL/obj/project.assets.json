@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sandeep Kukreti\\source\\repos\\OnlineCabBooking\\BLL\\BLL.csproj",
+      "projectUniqueName": "E:\\Projects\\RideShareApp\\RideShareApp\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\Sandeep Kukreti\\source\\repos\\OnlineCabBooking\\BLL\\BLL.csproj",
+      "projectPath": "E:\\Projects\\RideShareApp\\RideShareApp\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Sandeep Kukreti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sandeep Kukreti\\source\\repos\\OnlineCabBooking\\BLL\\obj\\",
+      "outputPath": "E:\\Projects\\RideShareApp\\RideShareApp\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
