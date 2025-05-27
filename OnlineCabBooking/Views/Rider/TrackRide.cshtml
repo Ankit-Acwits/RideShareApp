@@ -1,0 +1,26 @@
+
+@{
+    ViewData["Title"] = "Track Ride";
+}
+<h2>Track Your Ride</h2>
+<div id="map" style="height: 500px; width: 100%;"></div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.9/signalr.min.js"></script>
+    <script src="~/js/liveTracking.js"></script>
+    <script>
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("/locationHub")
+            .build();
+
+        connection.on("ReceiveLocation", function (lat, lng) {
+            updateDriverLocation(lat, lng);
+        });
+
+        connection.start().then(function () {
+            connection.invoke("JoinRide", "ride123"); // static ride ID for demo
+        });
+    </script>
+}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css" />

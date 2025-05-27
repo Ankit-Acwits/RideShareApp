@@ -61,3 +61,5 @@ E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\bin\Debug\net5.0\Models.p
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Driver\Assigned.cshtml.g.cs
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\Book.cshtml.g.cs
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\History.cshtml.g.cs
+E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Driver\SimulateLocation.cshtml.g.cs
+E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\TrackRide.cshtml.g.cs

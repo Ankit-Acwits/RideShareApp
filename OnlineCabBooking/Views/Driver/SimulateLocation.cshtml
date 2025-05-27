@@ -1,0 +1,25 @@
+
+@{
+    ViewData["Title"] = "Simulate Driver Location";
+}
+<h2>Simulate Driver Location</h2>
+<button onclick="sendLocation()">Send Location</button>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.9/signalr.min.js"></script>
+    <script>
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("/locationHub")
+            .build();
+
+        connection.start().then(function () {
+            connection.invoke("JoinRide", "ride123");
+        });
+
+        function sendLocation() {
+            let lat = 28.6139 + Math.random() * 0.01;
+            let lng = 77.2090 + Math.random() * 0.01;
+            connection.invoke("SendLocation", "ride123", lat, lng);
+        }
+    </script>
+}

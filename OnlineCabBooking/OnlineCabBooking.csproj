@@ -5,7 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Views\Driver\Assigned.cshtml" />
+    <None Include="Views\Rider\Book.cshtml" />
     <None Include="Views\Rider\Dashboard.cshtml" />
+    <None Include="Views\Rider\History.cshtml" />
     <None Include="Views\Rider\Login.cshtml" />
     <None Include="Views\Rider\Register.cshtml" />
     <None Include="Views\Rider\Track.cshtml" />
