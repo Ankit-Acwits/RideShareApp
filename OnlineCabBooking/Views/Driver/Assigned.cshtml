@@ -1,0 +1,1 @@
+<h2>Assigned Rides</h2><ul>@foreach (var r in Model) {<li>@r.PickupLocation to @r.DropLocation - <a href='/Ride/Accept/@r.Id'>Accept</a> | <a href='/Ride/Complete/@r.Id'>Complete</a></li>}</ul>

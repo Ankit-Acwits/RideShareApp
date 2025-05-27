@@ -56,3 +56,8 @@ E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\bin\Debug\net5.0\System.T
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\Dashboard.cshtml.g.cs
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\Login.cshtml.g.cs
 E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\Register.cshtml.g.cs
+E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\bin\Debug\net5.0\Models.dll
+E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\bin\Debug\net5.0\Models.pdb
+E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Driver\Assigned.cshtml.g.cs
+E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\Book.cshtml.g.cs
+E:\Projects\RideShareApp\RideShareApp\OnlineCabBooking\obj\Debug\net5.0\Razor\Views\Rider\History.cshtml.g.cs

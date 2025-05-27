@@ -6,3 +6,7 @@
 /.vs
 /OnlineCabBooking/obj
 /.vs
+/.vs/OnlineCabBooking/v16
+/Models/bin/Debug/net5.0
+/Models/obj/Debug/net5.0
+/OnlineCabBooking/bin/Debug/net5.0
